@@ -1,4 +1,4 @@
-# fibonacci
+# Fibonacci
 Script em JavaScript para calcular a sequência de Fibonacci até um número desejado
 
 
