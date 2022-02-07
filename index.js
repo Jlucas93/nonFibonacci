@@ -2,7 +2,7 @@
 function nonFibonacci(num)
 {
     if(num === 0){
-        console.log("Erro número não pode ser igual 0")
+        console.error("Erro número não pode ser igual 0")
         return
     }   
 
@@ -18,6 +18,7 @@ function nonFibonacci(num)
  
         // (current - previous - 1) contagem de números não Fibonacci entre o atual e o anterior.
         num = num - (current - previous - 1); 
+        console.log("Atual: "+ current + " Valor de num: " + num)
     } 
  
     // Transformadno n em positivo
