@@ -1,5 +1,5 @@
-# Fibonacci
-Script em JavaScript para calcular a sequência de Fibonacci até um número desejado
+# Non-Fibonacci
+Script em JavaScript para calcular um número não pertecente a sequência de Fibonacci até um número desejado
 
 
 **Tecnologias :**
