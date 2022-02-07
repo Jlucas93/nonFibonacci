@@ -4,6 +4,7 @@ Script em JS para calcular um número não pertecente a sequência de Fibonacci 
 
 **Tecnologias :**
 JavaSricpt
+
 **Autor**
  | Nome | GitHub | Likedin | E-mail
  | ---- | ------ | ------- | ------
